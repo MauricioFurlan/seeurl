@@ -1,39 +1,36 @@
-Política de Privacidade da Enterprise Seeurl
+Política de Privacidade - Enterprise UrlChecker 2
 
-Última atualização: 08/12/2023
+Bem-vindo à Política de Privacidade da extensão Enterprise UrlChecker 2. Esta política destina-se a informá-lo sobre como coletamos, usamos e protegemos os dados obtidos através da nossa extensão. Ao utilizar a Enterprise UrlChecker 2, você concorda com a coleta e uso de informações conforme descrito nesta política.
 
-Bem-vindo ao Enterprise Seeurl!
+Coleta de Dados
+A Enterprise UrlChecker 2 coleta dados do navegador do usuário. Isso inclui, mas não se limita a:
 
-A Enterprise Seeurl, doravante referida como "nós", "nosso", ou "nossa", está comprometida em proteger a privacidade dos usuários de nossos serviços. Esta Política de Privacidade destina-se a informar você, doravante referido como "usuário" ou "você", sobre como coletamos, usamos e compartilhamos suas informações.
+URLs acessadas
+Informações de navegação
+Dados de uso da extensão
+Esses dados são coletados automaticamente pela extensão enquanto você a utiliza.
 
-Informações Coletadas
-1.1 Dados de Navegação
+Uso dos Dados
+Os dados coletados pela Enterprise UrlChecker 2 são utilizados para os seguintes fins:
 
-Ao utilizar nossa aplicação, podemos coletar informações sobre a navegação do usuário, incluindo URLs bloqueadas pelo navegador Chrome. Esses dados são coletados de forma automática.
+Melhoria e personalização da experiência do usuário
+Desenvolvimento de novos recursos e funcionalidades
+Análise de tendências de uso e estatísticas agregadas
+Compartilhamento de Dados
+Não compartilhamos suas informações pessoais com terceiros, exceto nas seguintes circunstâncias:
 
-Uso das Informações Coletadas
-2.1 Finalidade Principal
-
-As informações coletadas, especialmente as URLs bloqueadas pelo Chrome, são utilizadas exclusivamente para não permitir que os usuários acessem sites não permitidos pela empresa.
-
-2.2 Compartilhamento com Terceiros
-
-As informações coletadas não serão compartilhadas com terceiros, exceto quando necessário para cumprir obrigações legais ou a pedido expresso das autoridades competentes.
-
-Segurança das Informações
-Implementamos medidas de segurança técnicas e organizacionais para proteger suas informações contra acesso não autorizado, divulgação, alteração e destruição.
-
-Seus Direitos
-Você tem o direito de acessar, corrigir, atualizar ou solicitar a exclusão de suas informações pessoais. Para exercer esses direitos, entre em contato conosco através dos meios fornecidos abaixo.
-
-Contato
-Se você tiver dúvidas, preocupações ou sugestões sobre nossa Política de Privacidade, entre em contato conosco:
-
-Mauricio Tomesani Furlan
+Com o seu consentimento expresso
+Para cumprir com as obrigações legais
+Para proteger e defender os direitos ou propriedade da Enterprise UrlChecker 2
+Segurança dos Dados
+Estamos comprometidos em proteger a segurança dos seus dados. Implementamos medidas técnicas e organizacionais para proteger suas informações contra acesso não autorizado, alteração, divulgação ou destruição.
 
 Alterações na Política de Privacidade
-Podemos atualizar esta Política de Privacidade periodicamente. Recomendamos que você reveja esta página regularmente para se manter informado sobre quaisquer alterações.
+Esta Política de Privacidade pode ser atualizada periodicamente. Encorajamos os usuários a revisarem regularmente esta página para quaisquer mudanças. As alterações entram em vigor imediatamente após serem publicadas nesta página.
 
-Ao utilizar nossa aplicação, você concorda com os termos estabelecidos nesta Política de Privacidade.
+Contato
+Se você tiver quaisquer perguntas ou preocupações sobre esta Política de Privacidade, por favor, entre em contato conosco através do Mauricio Furlan
 
-Obrigado por escolher Enterprise Seeurl!
+Ao utilizar a Enterprise UrlChecker 2, você concorda com a coleta e uso de suas informações conforme descrito nesta Política de Privacidade.
+
+Note que este texto é apenas um rascunho e deve ser adaptado às especificidades da sua extensão e às leis aplicáveis, especialmente se você estiver coletando dados sensíveis ou pessoais. É recomendável consultar um advogado especializado em privacidade de dados para garantir a conformidade com todas as leis e regulamentos aplicáveis.
